@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\bin\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.exe
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\bin\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.deps.json
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\bin\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.runtimeconfig.json
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\bin\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.runtimeconfig.dev.json
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\bin\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.dll
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\bin\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.pdb
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\obj\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\obj\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\obj\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.AssemblyInfo.cs
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\obj\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\obj\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.dll
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\obj\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.pdb
+C:\Users\stani\source\repos\S_Hryshchenko_Lucky_Ticket\S_Hryshchenko_Lucky_Ticket\obj\Debug\netcoreapp3.1\S_Hryshchenko_Lucky_Ticket.genruntimeconfig.cache
